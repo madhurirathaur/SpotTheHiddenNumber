@@ -10,7 +10,7 @@ import AVFoundation
 enum Name : String {
     case nameA, nameB
 }
-
+ 
 protocol GameAble {
     var background : Image { get }
 }
